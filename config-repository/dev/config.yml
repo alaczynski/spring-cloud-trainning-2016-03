@@ -1,0 +1,2 @@
+payment.service.name: payment
+env: dev
